@@ -11,7 +11,7 @@ redirect_from:
 
 Johns Hopkins Bloomberg School of Public Health
 ======
-**JScM in Biostatistics**
+**ScM in Biostatistics**
 
 Completed Master’s Thesis: *A Possible Explanation for the Association Between Obesity and Cancer Risk*.
 
@@ -22,7 +22,7 @@ Coursework included Advanced Data Science, Analysis of Biological Sequences, Cau
 Johns Hopkins University
 ======
 **B.S. in Biomedical Engineering and Applied Mathematics & Statistics**  
-**M.S.E. Applied Mathematics & Statistics**
+**M.S.E. in Applied Mathematics & Statistics**
 
 Coursework included Bayesian Statistics, Bioinformatics, Computational Genomics, Computational Molecular Medicine, Computer Integrated Surgery, Computer Vision, Data Structures, Discrete Mathematics, Machine Learning, Optimization, Probability and Statistics, Programming (Java, C, C++), Statistical Mechanics and Thermodynamics, Stochastic Processes, Systems and Controls, Systems Bioengineering, Systems Pharmacology and Personalized Medicine, and Time Series Analysis.
 
