@@ -9,11 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="row">
-  <div class="col-md-8" markdown="1">
-  Some text.
-  </div>
-  <div class="col-md-4" markdown="1">
-  More text.
-  </div>
-</div>
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+
+some text
+
+</td>
+<td>
+
+more text
+
+</td>
+</tr>
+</table
