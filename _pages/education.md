@@ -11,7 +11,6 @@ redirect_from:
 
 <table>
   <tr>
-    border: none;
     <td>JHU</td>
     <td>courses</td>
   </tr>
