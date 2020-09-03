@@ -18,7 +18,7 @@ Completed Master’s Thesis: *A Possible Explanation for the Association Between
 Coursework included Advanced Data Science, Analysis of Biological Sequences, Causal Inference, Data Management, Genetic Epidemiology, Longitudinal Data Analysis, Methods in Biostatistics, Power and Sample Size Calculation, Probability and Statistical Inference, Statistical Computing, and Epidemiological Inference.  
 
 
-
+&nbsp;
 Johns Hopkins University
 ======
 **B.S. in Biomedical Engineering and Applied Mathematics & Statistics**  
