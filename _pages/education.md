@@ -26,3 +26,14 @@ more text
 </td>
 </tr>
 </table
+
+
+
+<div class="row">
+    <div class="col-md-6">
+text
+    </div>
+    <div class="col-md-6">
+more text
+    </div>
+</div>
