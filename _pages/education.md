@@ -11,7 +11,7 @@ redirect_from:
 
 Johns Hopkins Bloomberg School of Public Health
 ======
-<span style="font-size:1em;"> 
+<span style="font-size:1.25em;"> 
 ScM in Biostatistics 
 </span>
 
@@ -22,11 +22,11 @@ Coursework included Advanced Data Science, Analysis of Biological Sequences, Cau
 
 Johns Hopkins University
 ======
-<span style="font-size:0.5em;">
+<span style="font-size:1.5em;">
 B.S. in Biomedical Engineering and Applied Mathematics & Statistics 
 </span>
  
-<span style="font-size:0.75em;">
+<span style="font-size:1.75em;">
 M.S.E. Applied Mathematics & Statistics
 </span>
 
