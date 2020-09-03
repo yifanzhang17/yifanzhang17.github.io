@@ -22,11 +22,11 @@ Coursework included Advanced Data Science, Analysis of Biological Sequences, Cau
 
 Johns Hopkins University
 ======
-<span style="font-size:1.5em;">
+<span style="font-size:1.25em;">
 B.S. in Biomedical Engineering and Applied Mathematics & Statistics 
 </span>
  
-<span style="font-size:1.75em;">
+<span style="font-size:1.25em;">
 M.S.E. Applied Mathematics & Statistics
 </span>
 
