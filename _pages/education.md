@@ -12,8 +12,6 @@ redirect_from:
 <table>
   <tr>
     <td>JHU</td>
-  </tr>
-  <tr>
-    <td>coursework</td>
+    <td>courses</td>
   </tr>
 </table>
