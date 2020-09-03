@@ -50,3 +50,14 @@ more text
         {{ include-what-you-want }}
     </div>
 </div>
+
+
+
+<div class="left">
+<p>Some explanation goes here</p>
+<p>Another example...</p>
+</div>
+<div class="right">
+<pre> // some code goes here </pre>
+<pre> // more example code goes here </pre>
+</div>
