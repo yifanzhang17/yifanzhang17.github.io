@@ -17,6 +17,6 @@ author_profile: true
 
 2.	Chen H, Du J, Zhang Y, Barnes K, Jia X. [Establishing a reliable gait evaluation method for rodent studies](https://www.sciencedirect.com/science/article/pii/S016502701730081X). Journal of Neuroscience Methods. 283: 92–100. 2017
 
-3.	Zhang Y*, Moeini-Naghani I*, Bai JP*, Santos-Sacchi J, Navaratnam D. [Tyrosine motifs are required for prestin basolateral membrane targeting](https://bio.biologists.org/content/4/2/197.short). Biology Open. 4 (2): 197-205. 2015
+3.	Zhang Y†, Moeini-Naghani I†, Bai JP†, Santos-Sacchi J, Navaratnam D. [Tyrosine motifs are required for prestin basolateral membrane targeting](https://bio.biologists.org/content/4/2/197.short). Biology Open. 4 (2): 197-205. 2015
 
-* These authors contributed equally to this work
+† These authors contributed equally to this work
