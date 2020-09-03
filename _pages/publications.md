@@ -19,3 +19,4 @@ author_profile: true
 
 3.	Zhang Y*, Moeini-Naghani I*, Bai JP*, Santos-Sacchi J, Navaratnam D. [Tyrosine motifs are required for prestin basolateral membrane targeting](https://bio.biologists.org/content/4/2/197.short). Biology Open. 4 (2): 197-205. 2015
 
+* These authors contributed equally to this work
