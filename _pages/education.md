@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <table>
+  border: none;
   <tr>
     <td>JHU</td>
     <td>courses</td>
