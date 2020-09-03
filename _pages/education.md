@@ -24,6 +24,7 @@ Johns Hopkins University
 ======
 <span style="font-size:10em;">
 B.S. in Biomedical Engineering and Applied Mathematics & Statistics 
+  
 M.S.E. Applied Mathematics & Statistics
 </span>
 
