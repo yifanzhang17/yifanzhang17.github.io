@@ -14,7 +14,6 @@ redirect_from:
   Some text.
   </div>
   <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  More text.
   </div>
 </div>
