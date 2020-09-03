@@ -27,6 +27,7 @@ B.S. in Biomedical Engineering and Applied Mathematics & Statistics
 M.S.E. Applied Mathematics & Statistics
 </span>
 
+
 Coursework included Bayesian Statistics, Bioinformatics, Computational Genomics, Computational Molecular Medicine, Computer Integrated Surgery, Computer Vision, Data Structures, Discrete Mathematics, Machine Learning, Optimization, Probability and Statistics, Programming (Java, C, C++), Statistical Mechanics and Thermodynamics, Stochastic Processes, Systems and Controls, Systems Bioengineering, Systems Pharmacology and Personalized Medicine, and Time Series Analysis.
 
 
