@@ -15,7 +15,7 @@ Johns Hopkins Bloomberg School of Public Health
 
 Completed Master’s Thesis: *A Possible Explanation for the Association Between Obesity and Cancer Risk*.
 
-Coursework included Advanced Data Science, Analysis of Biological Sequences, Causal Inference, Data Management, Genetic Epidemiology, Longitudinal Data Analysis, Methods in Biostatistics, Power and Sample Size Calculation, Probability and Statistical Inference, Statistical Computing, and Epidemiological Inference.
+Coursework included Advanced Data Science, Analysis of Biological Sequences, Causal Inference, Data Management, Genetic Epidemiology, Longitudinal Data Analysis, Methods in Biostatistics, Power and Sample Size Calculation, Probability and Statistical Inference, Statistical Computing, and Epidemiological Inference.  
 
 
 
