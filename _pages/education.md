@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Johns Hopkins Bloomberg School of Public Health
+ScM in Biostatistics
 ======
-**ScM in Biostatistics** 
+**Johns Hopkins Bloomberg School of Public Health**
 
 Completed Master’s Thesis: *A Possible Explanation for the Association Between Obesity and Cancer Risk*.
 
