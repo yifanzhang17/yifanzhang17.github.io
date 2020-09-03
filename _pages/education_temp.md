@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: "Education_temp"
 permalink: 
 author_profile: true
 redirect_from:
