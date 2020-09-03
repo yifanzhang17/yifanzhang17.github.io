@@ -37,3 +37,16 @@ text
 more text
     </div>
 </div>
+
+
+
+<div class="row">
+    <div class="col-md-6">
+        {{ include-code-blocks }}
+    </div>
+    <div class="col-md-6">
+        {{ include-texts }}
+        {{ include-headers }}
+        {{ include-what-you-want }}
+    </div>
+</div>
