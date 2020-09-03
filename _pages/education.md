@@ -15,3 +15,5 @@ redirect_from:
     <td>courses</td>
   </tr>
 </table>
+
+style="border-collapse: collapse; border: none;"
