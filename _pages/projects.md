@@ -8,4 +8,5 @@ author_profile: true
 {% include base_path %}
 
 
-[PREDICTING NBA STANDINGS - WHO WILL MAKE THE 2019-2020 NBA PLAYOFFS IN THE WESTERN CONFERENCE?]https://advds71x.github.io/NBAproj/
+[WHO WILL MAKE THE 2019-2020 NBA PLAYOFFS IN THE WESTERN CONFERENCE?](https://advds71x.github.io/NBAproj/)
+Built a statistical machine learning model to predict the regular season winning percentages of the NBA teams in the Western Conference, and thus the playoff teams. 
