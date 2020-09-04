@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I currently work as a Research Associate in the [Johns Hopkins Biostatistics Center](https://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-biostatistics-center/) at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/).
+I currently work as a Research Associate at the [Johns Hopkins Biostatistics Center](https://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-biostatistics-center/).
