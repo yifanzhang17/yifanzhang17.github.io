@@ -9,5 +9,5 @@ author_profile: true
 
 | Term               | Course                                    | Role |
 |--------------------|-------------------------------------------|------|
-| 2019-20 Term 1-4 | Statistical Methods in Public Health I-IV | TA   |
+| 2019-20 Terms 1-4 | Statistical Methods in Public Health I-IV | TA   |
 | 2016 Fall          | Systems Bioengineering III                | TA   |
