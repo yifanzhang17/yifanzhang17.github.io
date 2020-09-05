@@ -10,8 +10,7 @@ author_profile: true
 Class Projects
 ===============
 
-[Who Will Make the 2019-2020 NBA Playoffs in the Western Conference?](https://advds71x.github.io/NBAproj/)  
-_Advanced Data Science | 2019_  
+[Who Will Make the 2019-2020 NBA Playoffs in the Western Conference?](https://advds71x.github.io/NBAproj/)  _Advanced Data Science | 2019_    
 Built a statistical model to predict regular season winning percentages of NBA teams in the Western Conference. 
 
 [Impact of Ceasefire Weekends on Gun Homicide Rates](https://htmlpreview.github.io/?https://github.com/yifanzhang17/yifanzhang17.github.io/blob/master/files/712-hw1-assignment.html)  
