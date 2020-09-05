@@ -21,9 +21,9 @@ Publications
 Conference Submissions
 =======
 
-1.	Du J, Xu C, **Zhang Y**, Jia X. The Effect of Cell Culture Passage on the Viability and Differentiation Capacity of Human Stem Cells in Rat Sciatic Nerve Regeneration. 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society; July 11-15, 2017; Jeju Island, Korea.
-2.	Du J, Chen H, **Zhang Y**, Jia X. Viability of Human Neural Crest Stem Cells across Cell-Culture Passages for Sciatic Nerve Regeneration. 8th International IEEE EMBS Conference on Neural Engineering; May 25-28, 2017; Shanghai, China. 
-3.	Wang X, Chaudhry S, **Zhang Y**, Jia X. A Portable Wireless Multimodal Signal Acquisition System for Surface Electromyography Detection. 8th International IEEE EMBS Conference on Neural Engineering; May 25-28, 2017; Shanghai, China.
-4.	Navaratnam D, Moeini-Naghani I, Bai JP, **Zhang Y**, Santos-Sacchi J. Targeting of Prestin and Slo to the Basolateral Surface: Hair Cells Are Epithelial and Not Neuronal. Inner Ear Biology Workshop; November 1-4, 2014; Kyoto, Japan.
-5.	**Zhang Y**, Bai JP, Wu Y, Moeini-Naghani I, Santos-Sacchi J, Navaratnam D. Prestin is Trafficked to the Basolateral Surface of the Cell Using the AP1B Pathway. 37th Annual MidWinter Meeting of the Association for Research in Otolaryngology; February 21-26, 2014; San Diego, CA.
-6.	**Zhang Y**, Bai JP, Santos-Sacchi J, Navaratnam D. Prestin is Targeted to the Basolateral Membrane Using a Tyrosine Motif. 36th Annual MidWinter Meeting of the Association for Research in Otolaryngology; February 16-20, 2013; Baltimore, MD.
+- Du J, Xu C, **Zhang Y**, Jia X. The Effect of Cell Culture Passage on the Viability and Differentiation Capacity of Human Stem Cells in Rat Sciatic Nerve Regeneration. 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society; July 11-15, 2017; Jeju Island, Korea.
+- Du J, Chen H, **Zhang Y**, Jia X. Viability of Human Neural Crest Stem Cells across Cell-Culture Passages for Sciatic Nerve Regeneration. 8th International IEEE EMBS Conference on Neural Engineering; May 25-28, 2017; Shanghai, China. 
+- Wang X, Chaudhry S, **Zhang Y**, Jia X. A Portable Wireless Multimodal Signal Acquisition System for Surface Electromyography Detection. 8th International IEEE EMBS Conference on Neural Engineering; May 25-28, 2017; Shanghai, China.
+- Navaratnam D, Moeini-Naghani I, Bai JP, **Zhang Y**, Santos-Sacchi J. Targeting of Prestin and Slo to the Basolateral Surface: Hair Cells Are Epithelial and Not Neuronal. Inner Ear Biology Workshop; November 1-4, 2014; Kyoto, Japan.
+- **Zhang Y**, Bai JP, Wu Y, Moeini-Naghani I, Santos-Sacchi J, Navaratnam D. Prestin is Trafficked to the Basolateral Surface of the Cell Using the AP1B Pathway. 37th Annual MidWinter Meeting of the Association for Research in Otolaryngology; February 21-26, 2014; San Diego, CA.
+- **Zhang Y**, Bai JP, Santos-Sacchi J, Navaratnam D. Prestin is Targeted to the Basolateral Membrane Using a Tyrosine Motif. 36th Annual MidWinter Meeting of the Association for Research in Otolaryngology; February 16-20, 2013; Baltimore, MD.
