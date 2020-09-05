@@ -11,7 +11,7 @@ Class Projects
 ===============
 
 [Who Will Make the 2019-2020 NBA Playoffs in the Western Conference?](https://advds71x.github.io/NBAproj/)  
-Built a statistical model to predict the regular season winning percentages of the NBA teams in the Western Conference, and thus the playoff teams. 
+Built a statistical model to predict the regular season winning percentages of the NBA teams in the Western Conference. 
 
 [Impact of Ceasefire Weekends on Gun Homicide Rates](https://htmlpreview.github.io/?https://github.com/yifanzhang17/yifanzhang17.github.io/blob/master/files/712-hw1-assignment.html)  
 Evaluated effect of Baltimore Ceasefire 365.
