@@ -14,7 +14,7 @@ Class Projects
 Advanced Data Science | 2019  
 Built a statistical model to predict regular season winning percentages of NBA teams in the Western Conference. 
 
-[Impact of Ceasefire Weekends on Gun Homicide Rates](https://htmlpreview.github.io/?https://github.com/yifanzhang17/yifanzhang17.github.io/blob/master/files/712-hw1-assignment.html) 
+[Impact of Ceasefire Weekends on Gun Homicide Rates](https://htmlpreview.github.io/?https://github.com/yifanzhang17/yifanzhang17.github.io/blob/master/files/712-hw1-assignment.html)  
 Advanced Data Science | 2019  
 Evaluated effectiveness of Baltimore Ceasefire 365.
 
