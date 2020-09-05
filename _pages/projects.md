@@ -14,7 +14,10 @@ Class Projects
 Built a statistical model to predict the regular season winning percentages of the NBA teams in the Western Conference. 
 
 [Impact of Ceasefire Weekends on Gun Homicide Rates](https://htmlpreview.github.io/?https://github.com/yifanzhang17/yifanzhang17.github.io/blob/master/files/712-hw1-assignment.html)  
-Evaluated effect of Baltimore Ceasefire 365.
+Evaluated effectiveness of Baltimore Ceasefire 365.
+
+[Baltimore 911 Calls Analysis](https://htmlpreview.github.io/?https://github.com/yifanzhang17/yifanzhang17.github.io/blob/master/files/712-hw2-assignment.html)  
+Explored time and spatial trends of 911 calls in Baltimore.
 
 Internship and Summer Research Projects
 ===============
