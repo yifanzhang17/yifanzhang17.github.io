@@ -16,9 +16,6 @@ Built a statistical model to predict regular season winning percentages of NBA t
 [Impact of Ceasefire Weekends on Gun Homicide Rates](https://htmlpreview.github.io/?https://github.com/yifanzhang17/yifanzhang17.github.io/blob/master/files/712-hw1-assignment.html)  
 Evaluated effectiveness of Baltimore Ceasefire 365.
 
-[Baltimore 911 Calls Analysis](https://htmlpreview.github.io/?https://github.com/yifanzhang17/yifanzhang17.github.io/blob/master/files/712-hw2-assignment.html)  
-Explored time and spatial trends of 911 calls in Baltimore.
-
 Internship and Summer Research Projects
 ===============
 [Jump-start R Code and Shiny Web App Development at the Baltimore City Health Department](https://www.jhsph.edu/offices-and-services/practice-and-training/school-wide-opportunities/practice-for-students/phase/_documents/PHASE-Presentations/2018-2019/Presentation_Zhang.pdf)  
