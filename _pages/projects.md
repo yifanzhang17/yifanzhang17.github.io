@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Class Projects
+## Class Projects
 
 [Who Will Make the 2019-2020 NBA Playoffs in the Western Conference?](https://advds71x.github.io/NBAproj/)  
 _Advanced Data Science | 2019_        
