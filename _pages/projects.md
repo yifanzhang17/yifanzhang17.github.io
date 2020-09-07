@@ -14,7 +14,7 @@ author_profile: true
 Built a statistical model to predict regular season winning percentages of NBA teams in the Western Conference. 
 
 [Impact of Ceasefire Weekends on Gun Homicide Rates](https://htmlpreview.github.io/?https://github.com/yifanzhang17/yifanzhang17.github.io/blob/master/files/712-hw1-assignment.html)  
-<span style="color:gray">Advanced Data Science | 2019 </span>      
+<span style="color:lightgray">Advanced Data Science | 2019 </span>      
 Evaluated effectiveness of Baltimore Ceasefire 365.
 
 ## Internship and Summer Research Projects
