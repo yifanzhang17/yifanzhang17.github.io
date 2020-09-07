@@ -9,8 +9,6 @@ author_profile: true
 
 {% include base_path %}
 
-Publications
-=======
 
 - Diaz-Mejia J, Celaj A, Mellor J, Cote A, Balint A, Ho B, Bansal P, Shaeri F, Gebbia M, Weile J, Verby M, Karkhanina A, **Zhang Y**, Wong C, Rich J, Prendergast D, Gupta G, Ozturk S, Durocher D, Brown G, Roth F. [Mapping DNA damage-dependent genetic interactions in yeast via party mating and barcode fusion genetics](https://www.embopress.org/doi/full/10.15252/msb.20177985). Molecular Systems Biology (2018).
 - Chen H, Du J, **Zhang Y**, Barnes K, Jia X. [Establishing a reliable gait evaluation method for rodent studies](https://www.sciencedirect.com/science/article/pii/S016502701730081X). Journal of Neuroscience Methods (2017). 
