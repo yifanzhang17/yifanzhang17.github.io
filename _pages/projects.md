@@ -17,7 +17,7 @@ Built a statistical model to predict regular season winning percentages of NBA t
 _Advanced Data Science | 2019_  
 Evaluated effectiveness of Baltimore Ceasefire 365.
 
-Internship and Summer Research Projects
+## Internship and Summer Research Projects
 ===============
 [Jump-start R Code and Shiny Web App Development at the Baltimore City Health Department](https://www.jhsph.edu/offices-and-services/practice-and-training/school-wide-opportunities/practice-for-students/phase/_documents/PHASE-Presentations/2018-2019/Presentation_Zhang.pdf)  
 _Public Health Applications for Student Experience (PHASE) | 2018-19_  
